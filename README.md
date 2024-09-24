@@ -1,3 +1,4 @@
 This is the solution for a technical assessment. 
 
-The question can be founded inside <strong><i><u>resources/NCH-Assessment.pdf</u></i></strong>
+The question can be founded inside [**_resources/NCH-Assessment.pdf_**](resources/NCH-Assessment.pdf)
+
