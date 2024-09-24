@@ -1,0 +1,253 @@
+[
+    {
+        "codes": [
+            "TE1"
+        ],
+        "name": "Woodlands North",
+        "title": "Woodlands North MRT station",
+        "previous_distance": null,
+        "next_distance": 1.4
+    },
+    {
+        "codes": [
+            "NS9",
+            "TE2"
+        ],
+        "name": "Woodlands",
+        "title": "Woodlands MRT station",
+        "previous_distance": 1.4,
+        "next_distance": 1.4
+    },
+    {
+        "codes": [
+            "TE3"
+        ],
+        "name": "Woodlands South",
+        "title": "Woodlands South MRT station",
+        "previous_distance": 1.4,
+        "next_distance": 4.4
+    },
+    {
+        "codes": [
+            "TE4"
+        ],
+        "name": "Springleaf",
+        "title": "Springleaf MRT station",
+        "previous_distance": 4.4,
+        "next_distance": 2.6
+    },
+    {
+        "codes": [
+            "TE5"
+        ],
+        "name": "Lentor",
+        "title": "Lentor MRT station",
+        "previous_distance": 2.6,
+        "next_distance": 1.7
+    },
+    {
+        "codes": [
+            "TE6"
+        ],
+        "name": "Mayflower",
+        "title": "Mayflower MRT station",
+        "previous_distance": 1.7,
+        "next_distance": 1.1
+    },
+    {
+        "codes": [
+            "TE7"
+        ],
+        "name": "Bright Hill",
+        "title": "Bright Hill MRT station",
+        "previous_distance": 1.1,
+        "next_distance": 1.4
+    },
+    {
+        "codes": [
+            "TE8"
+        ],
+        "name": "Upper Thomson",
+        "title": "Upper Thomson MRT station",
+        "previous_distance": 1.4,
+        "next_distance": 2.2
+    },
+    {
+        "codes": [
+            "CC17",
+            "TE9"
+        ],
+        "name": "Caldecott",
+        "title": "Caldecott MRT station",
+        "previous_distance": 2.2,
+        "next_distance": 3.1
+    },
+    {
+        "codes": [
+            "DT10",
+            "TE11"
+        ],
+        "name": "Stevens",
+        "title": "Stevens MRT station",
+        "previous_distance": 3.1,
+        "next_distance": 1.7
+    },
+    {
+        "codes": [
+            "TE12"
+        ],
+        "name": "Napier",
+        "title": "Napier MRT station",
+        "previous_distance": 1.7,
+        "next_distance": 0.9
+    },
+    {
+        "codes": [
+            "TE13"
+        ],
+        "name": "Orchard Boulevard",
+        "title": "Orchard Boulevard MRT station",
+        "previous_distance": 0.9,
+        "next_distance": 1.0
+    },
+    {
+        "codes": [
+            "NS22",
+            "TE14"
+        ],
+        "name": "Orchard",
+        "title": "Orchard MRT station",
+        "previous_distance": 1.0,
+        "next_distance": 1.4
+    },
+    {
+        "codes": [
+            "TE15"
+        ],
+        "name": "Great World",
+        "title": "Great World MRT station",
+        "previous_distance": 1.4,
+        "next_distance": 1.0
+    },
+    {
+        "codes": [
+            "TE16"
+        ],
+        "name": "Havelock",
+        "title": "Havelock MRT station",
+        "previous_distance": 1.0,
+        "next_distance": 1.0
+    },
+    {
+        "codes": [
+            "EW16",
+            "NE3",
+            "TE17"
+        ],
+        "name": "Outram Park",
+        "title": "Outram Park MRT station",
+        "previous_distance": 1.0,
+        "next_distance": 0.6
+    },
+    {
+        "codes": [
+            "TE18"
+        ],
+        "name": "Maxwell",
+        "title": "Maxwell MRT station",
+        "previous_distance": 0.6,
+        "next_distance": 0.8
+    },
+    {
+        "codes": [
+            "TE19"
+        ],
+        "name": "Shenton Way",
+        "title": "Shenton Way MRT station",
+        "previous_distance": 0.8,
+        "next_distance": 0.7
+    },
+    {
+        "codes": [
+            "NS27",
+            "CE2",
+            "TE20"
+        ],
+        "name": "Marina Bay",
+        "title": "Marina Bay MRT station",
+        "previous_distance": 0.7,
+        "next_distance": 1.7
+    },
+    {
+        "codes": [
+            "TE22"
+        ],
+        "name": "Gardens by the Bay",
+        "title": "Gardens by the Bay MRT station",
+        "previous_distance": 1.7,
+        "next_distance": 2.7
+    },
+    {
+        "codes": [
+            "TE23"
+        ],
+        "name": "Tanjong Rhu",
+        "title": "Tanjong Rhu MRT station",
+        "previous_distance": 2.7,
+        "next_distance": 1.5
+    },
+    {
+        "codes": [
+            "TE24"
+        ],
+        "name": "Katong Park",
+        "title": "Katong Park MRT station",
+        "previous_distance": 1.5,
+        "next_distance": 1.2
+    },
+    {
+        "codes": [
+            "TE25"
+        ],
+        "name": "Tanjong Katong",
+        "title": "Tanjong Katong MRT station",
+        "previous_distance": 1.2,
+        "next_distance": 1.1
+    },
+    {
+        "codes": [
+            "TE26"
+        ],
+        "name": "Marine Parade",
+        "title": "Marine Parade MRT station",
+        "previous_distance": 1.1,
+        "next_distance": 1.0
+    },
+    {
+        "codes": [
+            "TE27"
+        ],
+        "name": "Marine Terrace",
+        "title": "Marine Terrace MRT station",
+        "previous_distance": 1.0,
+        "next_distance": 1.7
+    },
+    {
+        "codes": [
+            "TE28"
+        ],
+        "name": "Siglap",
+        "title": "Siglap MRT station",
+        "previous_distance": 1.7,
+        "next_distance": 1.3
+    },
+    {
+        "codes": [
+            "TE29"
+        ],
+        "name": "Bayshore",
+        "title": "Bayshore MRT station",
+        "previous_distance": 1.3,
+        "next_distance": null
+    }
+]
